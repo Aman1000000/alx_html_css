@@ -1,0 +1,49 @@
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    height: 100vh;
+    text-align: center;
+}
+
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+
+main {
+    flex: auto;
+}
+
+
+header, footer {
+    background-color: #f8f9fa;
+    padding: 1em;
+    text-align: center;
+}
+
+
+
+
+
+article {
+    flex: 2;
+    overflow-y: scroll;
+    background-color: #e9ecef;
+    padding: 1em;
+      height: 100vh;
+}
+
+
+aside {
+    flex: 1;
+    overflow-y: scroll;
+    background-color: #dee2e6;
+    padding: 1em;
+      height: 100vh;
+}
