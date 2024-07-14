@@ -1,0 +1,81 @@
+.All {
+  text-align: center;
+    width: 100%;
+    min-height: 100vh;
+  background-image: url('headphones_hero_2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0px;
+  position: relative;
+  bottom: 30px;
+  right: 7px;
+}
+
+ h1{
+   color: white;
+   font-size: 3.0rem;
+   font-family: sans-serif;
+ }
+ h2{
+   color: white;
+   font-size: 2rem;
+      font-family: sans-serif;
+ }
+ .our{
+   position: relative;
+   top: 10rem;
+   margin: 0px;
+ }
+ p{
+   color: white;
+      font-family: sans-serif;
+ }
+.penta{
+  width: 15rem;
+  height: 16rem;
+  position: absolute;
+  top: 350px;
+  right: 800px;
+}
+.penta1{
+  width: 15rem;
+  height: 16rem;
+  position: absolute;
+  top: 350px;
+  right: 1150px;
+}
+.penta2{
+  width: 15rem;
+  height: 16rem;
+  position: absolute;
+  top: 350px;
+  right:450px;
+}
+.penta3{
+  width: 15rem;
+  height: 16rem;
+  position: absolute;
+  top: 350px;
+  right: 100px;
+}
+.zero{
+  position: absolute;
+  top: 400px;
+  right: 850px;
+}
+.one {
+  position: absolute;
+  top: 400px;
+  right: 1200px;
+}
+.two{
+  position: absolute;
+  top: 400px;
+  right:500px;
+}
+.three{
+  position: absolute;
+  top: 400px;
+  right: 150px;
+}

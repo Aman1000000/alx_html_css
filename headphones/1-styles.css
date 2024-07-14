@@ -1,0 +1,28 @@
+.what{
+  text-align: center;
+  position: relative;
+  top: 2.5rem;
+}
+.wedo{
+  text-align: center;
+}
+.wedo1{
+  position: absolute;
+  top: 25rem;
+  left:10rem;
+}
+.wedo2{
+  position: absolute;
+  top: 25rem;
+right:5rem;
+}
+.wedo3{
+  position: absolute;
+  top: 25rem;
+right:27rem;
+}
+.wedo4{
+  position: absolute;
+  top: 25rem;
+right:48rem;
+}
